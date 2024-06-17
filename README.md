@@ -8,3 +8,8 @@
 <img width="500" alt="Chat Screen" src="https://github.com/dshreddy/ChatBuzz/assets/127737097/f2c0781e-86cb-46e6-8940-e0f0fc80f605">
 <img width="500" alt="Requests Screen" src="https://github.com/dshreddy/ChatBuzz/assets/127737097/2e1c1880-8a26-4f2b-b639-3bf824475584">
 <img width="500" alt="Chat Screen" src="https://github.com/dshreddy/ChatBuzz/assets/127737097/572854c3-c607-45ca-a97d-7fc7dd9227ec">
+
+### Contributers
+[Sai Hemanth Reddy](https://github.com/dshreddy/)<br>
+[Prabhat Suresh]()<br>
+[Sarath A]()<br>
